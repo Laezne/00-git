@@ -1,5 +1,5 @@
 # 00-git :
-Éste el repositorio del Laboratorio de Git (en el Bootcamp JS de Lemoncode).
+Éste es el repositorio del Laboratorio de Git (en el Bootcamp JS de Lemoncode).
 
 ### En este archivo, describo los pasos que he seguido para realizar este primer laboratorio. 
 
@@ -69,3 +69,10 @@
 - No ha avisado de ningún conflicto, así que procedo a lanzar: *git push*
 
 ![Captura Laboratorio Git 08](./content/Captura%20Laboratorio%20Git%2008.png)
+
+
+## Por último, termino de editar el README, y commiteo y subo los cambios a GitHub. 
+
+# ¡Gracias por leerme! 😊
+
+---
